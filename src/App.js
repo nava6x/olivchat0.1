@@ -3,7 +3,6 @@ import { Auth } from "./components/Auth";
 import { Chat } from "./components/Chat";
 import Cookies from "universal-cookie";
 
-import "./App.css"
 const cookies = new Cookies()
 
 function App() {
